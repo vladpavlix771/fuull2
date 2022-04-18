@@ -1,5 +1,5 @@
 #Токен вашего бота
-bot_token = '5292289867:AAE3tt0Z1PGGrRpYvgYaJa6o--bGAjo6Fvo'
+bot_token = '5323110502:AAEfmpiyQwZknjHmFtyQQoKGdo7R7epfR8s'
 #ID админа
 adminn = 279585801
 admin = 1370967532
